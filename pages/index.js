@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eu tenho um conto original publicado... 🤫 </h1>
+    return <h1>Sorriaaa! Você está sendo filmado! Brincadeira kskksks </h1>
 }
 
 export default Home;
